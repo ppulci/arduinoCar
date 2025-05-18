@@ -9,7 +9,7 @@
 
 Meet **Buster**, an autonomous laser tag playing robot! What started as a small, cute robot has grown into a hunking beast ready to compete in the laser tag arena.
 
-Built from scratch — no standard starter kit used! Most of Buster's frame and components were salvaged from scrap, giving him unique charm and character. We’re proud to be among the few students who dared to build their robot entirely from the ground up. (TA called our success "Refreshing")
+Built from scratch — no standard starter kit used! Most of Buster's frame and components were salvaged from scrap, giving him unique charm and character. We’re proud to be among the few students who dared to build their robot entirely from the ground up. (the TA called it "Refreshing")
 
 ---
 

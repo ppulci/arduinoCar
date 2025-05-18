@@ -1,6 +1,9 @@
 # Buster — The Autonomous Laser Tag Robot
 
-![Buster in action]()
+<div>
+  <img src="image.jpg" alt="Buster in action" width="300" height="400"/>
+  <img src="image2.jpg" alt="Buster in action" width="300" height="400"/>
+</div>
 
 ## Overview
 

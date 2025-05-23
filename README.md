@@ -29,6 +29,6 @@ Built from scratch — no standard starter kit used! Most of Buster's frame and 
 - Motors and chassis parts (custom built with love and duct-tape)
 - Sensors for autonomous navigation and laser detection (IR sensors for edge detection, ultra-sonic sensors for object detection, line tracking sensors for path tracing)
 
-*This repo has not been updated to feature the code relevant to the final examination practical where Buster fought in an area (1 on 1) against other bots!
-
 **He pulled off a beatiful snipe in the last 5 seconds of combat to secure me a 4.0 GPA in the course.**
+
+*This repo has not been updated to feature the code relevant to the final examination practical where Buster fought in an area (1 on 1) against other bots!
